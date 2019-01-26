@@ -5,7 +5,7 @@ Just a repo to post new RHCSA study material....
 
 #RHCSA Training <<<<<<< THIS IS ALL BEING ACTIVELY EDITED
 ##Chapters
-- [1 Installing RH](./objectives/1_Installing.md)
+- [1 Installing RH](./chapters/1_Installing.md)
 - [2 Essential tools](./objectives/2_essential_tools.md)
 - [3 Essential File MGMT Tools](./objectives/3_file_mgmt_tools.md)
 - [4 Working w/ text files](./objectives/4_working_w_text_files.md)
