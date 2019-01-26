@@ -1,34 +1,34 @@
 
-# RHCSA-Study
+# RHCSA-Key Notes and Definitions - All chapters
 Just a repo to post new RHCSA study material....
 
 
 #RHCSA Training <<<<<<< THIS IS ALL BEING ACTIVELY EDITED
 ##Chapters
 - [1 Installing RH](./objectives/1_Installing.md)
-- [2 essential tools](./objectives/2_essential_tools.md)
+- [2 Essential tools](./objectives/2_essential_tools.md)
 - [3 Essential File MGMT Tools](./objectives/3_file_mgmt_tools.md)
-- [4 working w/ text files](./objectives/4_working_w_text_files.md)
+- [4 Working w/ text files](./objectives/4_working_w_text_files.md)
 - [5 Connecting to to RH Ent Linux](./objectives/5_Conn_to_RH_Ent_Linux.md)
 - [6 User and Group MGMT](./objectives/6_User_and_Group_mgmt.md)
-- [7 Configuring permissions](./objectives/7_configuring permissions.md)
+- [7 Configuring permissions](./objectives/7_configuring_permissions.md)
 - [8 Configuring Networking](./objectives/8_configuring_networking.md)
 - [9 Managing Processes](./objectives/9_managing_processes.md)
-- [10 working with virtual machines](./objectives/10_working_with_virtual_machines.md)
-- [11 operate running systems](./objectives/11_operate_running_systems.md)
-- [12 configure local storage](./objectives/12_configure_local_storage.md)
-- [13 file systems](./objectives/13_file_systems.md)
-- [14 maintain systems](./objectives/14_maintain_systems.md)
+- [10 Working with virtual machines](./objectives/10_working_with_virtual_machines.md)
+- [11 Operate running systems](./objectives/11_operate_running_systems.md)
+- [12 Configure local storage](./objectives/12_configure_local_storage.md)
+- [13 File systems](./objectives/13_file_systems.md)
+- [14 Maintain systems](./objectives/14_maintain_systems.md)
 - [15 manage users and groups](./objectives/15_manage_users_and_groups.md)
-- [16 selinux](./objectives/16_selinux.md)
-- [17 recovery](./objectives/17_recovery.md)
-- [18 essential tools](./objectives/18_essential_tools.md)
-- [19 operate running systems](./objectives/19_operate_running_systems.md)
-- [20 configure local storage](./objectives/20_configure_local_storage.md)
-- [21 file systems](./objectives/21_file_systems.md)
-- [22 maintain systems](./objectives/22_maintain_systems.md)
-- [23 manage users and groups](./objectives/23_manage_users_and_groups.md)
-- [24 selinux](./objectives/24_selinux.md)
+- [16 Selinux](./objectives/16_selinux.md)
+- [17 Recovery](./objectives/17_recovery.md)
+- [18 Essential tools](./objectives/18_essential_tools.md)
+- [19 Operate running systems](./objectives/19_operate_running_systems.md)
+- [20 Configure local storage](./objectives/20_configure_local_storage.md)
+- [21 File systems](./objectives/21_file_systems.md)
+- [22 Maintain systems](./objectives/22_maintain_systems.md)
+- [23 Manage users and groups](./objectives/23_manage_users_and_groups.md)
+- [24 Selinux](./objectives/24_selinux.md)
 
 ##Commands
 - [swapon](./commands/swapon.md)
