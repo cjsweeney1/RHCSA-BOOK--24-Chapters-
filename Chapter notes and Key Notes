@@ -1,0 +1,12 @@
+
+
+Chapter 2
+#env
+Quick commands:
+$PATH - ex. Echo $PATH
+which - for ex $which ls
+./ - tells bash to look in current directory
+man -k
+#env
+apropos
+--help
