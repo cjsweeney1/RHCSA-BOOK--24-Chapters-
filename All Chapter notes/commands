@@ -4,7 +4,7 @@ Chapter 2
 commands to run on new machines
 vimtudor(yum install vim-enhanced to install)
 
-#env
+
 Quick commands:
 $PATH - ex. Echo $PATH
 which - for ex $which ls
@@ -25,3 +25,8 @@ ls ilwehgi Documents 2> /dev/null
 history
 history | grep cat
 rm -rf ~/.bash_history( can also use history -c then history -w)
+vim  ~/testfile
+/etc/motd - messgaes that display once a user log in
+etc/issue - file to send specific messages to people
+
+
