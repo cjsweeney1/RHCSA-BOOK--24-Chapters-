@@ -1,0 +1,27 @@
+
+
+Chapter 2
+commands to run on new machines
+vimtudor(yum install vim-enhanced to install)
+
+#env
+Quick commands:
+$PATH - ex. Echo $PATH
+which - for ex $which ls
+./ - tells bash to look in current directory
+man -k
+#env
+apropos
+--help
+man -f < somecommand > displays a short description of the item as found in the man database
+info
+pinfo
+ /usr/ share/ doc Documentation Files 
+< somecommand > |less
+ls
+ls > /dev/null (ex of sending sending STOUT to null device)
+ls ilwehgi 2> /dev/null
+ls ilwehgi Documents 2> /dev/null
+history
+history | grep cat
+rm -rf ~/.bash_history( can also use history -c then history -w)
