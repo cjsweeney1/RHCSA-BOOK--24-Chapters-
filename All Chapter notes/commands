@@ -35,6 +35,10 @@ pinfo or info(pinfo is recommended)
 
 
 ***Chapter 3
+Imprtant notes
+
+
+/boot
 mount
 ls -l
 ls -a
@@ -49,5 +53,8 @@ you mention the source name, followed by the destination name.
 ###You have to be able to perform three important tasks with tar on the RHCSA exam: ￼ 
 -Create an archive ￼ List the contents of an archive ￼ Extract an archive ￼ Compress and uncompress archives
 -Creating Archives with tar
-- To create an archive, you use the tar -cf archivename.tar /files-you-want-to-archive (If you want to see what is happening, use the -v )
+- tar -cf archivename.tar /files-you-want-to-archive - To create an archive, you use the  (If you want to see what is happening, use the -v )
+
+
+
 
