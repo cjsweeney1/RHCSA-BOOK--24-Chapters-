@@ -43,6 +43,7 @@ Some directories are commonly mounted on deedicated devices:
 /home -moved for security reasons and can survive a failure
 /usr - OS files only
 
+df -Th(h is human readable, T option shows file system types mounted on mounts
 mount
 ls -l
 ls -a
