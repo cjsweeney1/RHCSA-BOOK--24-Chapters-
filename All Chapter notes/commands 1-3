@@ -66,4 +66,8 @@ pwd
 touch
 cd / - takes you to root(/) directory
 cd - (typed alone takes you to home directory)
+cp
+cp /home/lisa/file1 /home/lara
+cp lisa/file/1 lara
+cp file1 ../lara
 
