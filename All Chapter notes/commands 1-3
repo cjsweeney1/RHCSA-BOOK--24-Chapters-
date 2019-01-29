@@ -61,5 +61,9 @@ you mention the source name, followed by the destination name.
 - tar -cf archivename.tar /files-you-want-to-archive - To create an archive, you use the  (If you want to see what is happening, use the -v )
 
 
+###Managing Files
+pwd
+touch
+cd / - takes you to root(/) directory
 
 
