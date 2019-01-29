@@ -29,4 +29,5 @@ vim  ~/testfile
 /etc/motd - messgaes that display once a user log in
 etc/issue - file to send specific messages to people
 pinfo or info(pinfo is recommended)
-
+--pinfo coreutils 'ls ivocation' 
+/usr/share/doc (Documentation files)
