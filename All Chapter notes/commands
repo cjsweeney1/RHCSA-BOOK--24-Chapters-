@@ -42,6 +42,11 @@ ls-ltr
 ls -d (shows the names of directories, not contents)
 ls -R (shows contents of current directory including all sub direstories
 
+Creating Links
+Use the ln command to create links. It uses the same order of parameters as cp and mv; first 
+you mention the source name, followed by the destination name.
 
-
+###You have to be able to perform three important tasks with tar on the RHCSA exam: ￼ 
+-Create an archive ￼ List the contents of an archive ￼ Extract an archive ￼ Compress and uncompress archives
+-Creating Archives with tar
 
