@@ -37,8 +37,10 @@ pinfo or info(pinfo is recommended)
 ***Chapter 3
 Imprtant notes
 
-
+Some directories are commonly mounted on deedicated devices:
 /boot
+
+
 mount
 ls -l
 ls -a
