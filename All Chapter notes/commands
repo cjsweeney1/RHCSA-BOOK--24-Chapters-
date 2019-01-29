@@ -38,7 +38,10 @@ pinfo or info(pinfo is recommended)
 Imprtant notes
 
 Some directories are commonly mounted on deedicated devices:
-/boot
+/boot -
+/var - directory can grow dynamically
+/home -moved for security reasons and can survive a failure
+/usr - OS files only
 
 
 mount
