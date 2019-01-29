@@ -65,5 +65,5 @@ you mention the source name, followed by the destination name.
 pwd
 touch
 cd / - takes you to root(/) directory
-
+cd - (typed alone takes you to home directory)
 
