@@ -35,8 +35,7 @@ pinfo or info(pinfo is recommended)
 
 
 ***Chapter 3
-Imprtant notes
-
+***Imprtant notes
 Some directories are commonly mounted on deedicated devices:
 /boot -
 /var - directory can grow dynamically
@@ -45,6 +44,7 @@ Some directories are commonly mounted on deedicated devices:
 
 df -Th(h is human readable, T option shows file system types mounted on mounts
 mount
+findmnt - an optio little easier than mount
 ls -l
 ls -a
 ls-ltr
