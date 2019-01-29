@@ -31,3 +31,17 @@ etc/issue - file to send specific messages to people
 pinfo or info(pinfo is recommended)
 --pinfo coreutils 'ls ivocation' 
 /usr/share/doc (Documentation files)
+
+
+
+***Chapter 3
+mount
+ls -l
+ls -a
+ls-ltr
+ls -d (shows the names of directories, not contents)
+ls -R (shows contents of current directory including all sub direstories
+
+
+
+
